@@ -36,7 +36,7 @@
     "d3-transition": "^1.2.0",
     "d3-zoom": "^1.8.3",
     "js-combinatorics": "^0.5.4",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "material-design-icons": "^3.0.1",
     "material-design-icons-iconfont": "^4.0.5",
     "papaparse": "^4.6.3",
